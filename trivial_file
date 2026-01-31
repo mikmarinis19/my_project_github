@@ -1,4 +1,9 @@
 This is a trivial file to demonstrate my knowledge of git. 
 This is an edit.
-This is an edit that conflicts with newbranch.
-This is a second edit that conflicts with newbranch.
+
+This is an edit that no longer conflicts with newbranch.
+This is a second edit that no longer conflicts with newbranch.
+
+Exercise 2a edit #1
+Exercise 2a edit #2
+

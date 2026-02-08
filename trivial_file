@@ -1,5 +1,10 @@
 This is a trivial file to demonstrate my knowledge of git. 
 This is an edit.
 
+This is an edit that no longer conflicts with newbranch.
+This is a second edit that no longer conflicts with newbranch.
 
-Practice edit by Ryan Nguyen for exercise 2a
+Exercise 2a edit #1
+Exercise 2a edit #2
+
+This is an edit by Nora! :)
